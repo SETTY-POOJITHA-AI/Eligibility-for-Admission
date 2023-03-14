@@ -61,7 +61,8 @@ public class EX01
 ```
 ## Output:
   
-  ![output]
+  ![mark](https://user-images.githubusercontent.com/93427581/225053447-1d71389f-1852-44e6-b89a-68904ef72f3b.png)
+
 
 
 
